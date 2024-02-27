@@ -2,7 +2,7 @@
 
 Emily L. Messina, James L. Wells, Zen Faulkes, Noofa Hannan, Mike Morrison, and Anja Petersen
 
-## Source code used in the analyses and visualizations
+## Source code used in the analyses and clustering visualization
 
 - daskldjl
 - dkasldj'
